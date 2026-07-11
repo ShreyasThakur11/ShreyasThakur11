@@ -1,9 +1,14 @@
-<img width="100%" alt="Shreyas Thakur" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:2563eb&height=200&section=header&text=Shreyas%20Thakur&fontColor=ffffff&fontSize=52&fontAlignY=40&desc=Chemical%20Engineer%20%20%C2%B7%20%20MBA%20Candidate%20at%20IIM%20Mumbai&descSize=18&descAlignY=62" />
+<img width="100%" alt="Shreyas Thakur" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:2563eb&height=210&section=header&text=Shreyas%20Thakur&fontColor=ffffff&fontSize=54&fontAlignY=40&desc=Chemical%20Engineer%20%20%C2%B7%20%20MBA%20Candidate%20at%20IIM%20Mumbai&descSize=18&descAlignY=62" />
+
+<br>
+
+<h3 align="center">Blending engineering rigor with business strategy</h3>
 
 <p align="center">
-  I am a Chemical Engineer pursuing an MBA at <b>IIM Mumbai</b>, blending engineering
-  rigor with business strategy across operations, financial modeling, and analytics.
+  Focused on operations, process optimization, financial modeling, and analytics.
 </p>
+
+<br>
 
 <p align="center">
   <a href="https://shreyasthakur11.github.io"><img alt="View portfolio website" src="https://img.shields.io/badge/View%20Portfolio-2563EB?style=for-the-badge" /></a>
@@ -16,20 +21,28 @@
 </p>
 
 <br>
+<br>
+
+<h3 align="center">Focus</h3>
 
 <p align="center">
-  <b>Focus</b> &nbsp; Process Optimization &nbsp;&middot;&nbsp; Financial Modeling &nbsp;&middot;&nbsp; Supply Chain Analytics &nbsp;&middot;&nbsp; Strategic Planning
-</p>
-
-<p align="center">
-  <b>Toolkit</b> &nbsp; Python &nbsp;&middot;&nbsp; SQL &nbsp;&middot;&nbsp; Power BI &nbsp;&middot;&nbsp; Excel VBA &nbsp;&middot;&nbsp; AutoCAD
+  Process Optimization &nbsp;&nbsp;&middot;&nbsp;&nbsp; Financial Modeling &nbsp;&nbsp;&middot;&nbsp;&nbsp; Supply Chain Analytics &nbsp;&nbsp;&middot;&nbsp;&nbsp; Strategic Planning
 </p>
 
 <br>
 
+<h3 align="center">Toolkit</h3>
+
+<p align="center">
+  Python &nbsp;&nbsp;&middot;&nbsp;&nbsp; SQL &nbsp;&nbsp;&middot;&nbsp;&nbsp; Power BI &nbsp;&nbsp;&middot;&nbsp;&nbsp; Excel VBA &nbsp;&nbsp;&middot;&nbsp;&nbsp; AutoCAD
+</p>
+
+<br>
+<br>
+
 <p align="center">
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=ShreyasThakur11&label=Profile%20views&color=2563eb&style=flat-square" />
-  &nbsp; <sub>Mumbai, Maharashtra, India</sub>
+  &nbsp;&nbsp; <sub>Mumbai, Maharashtra, India</sub>
 </p>
 
 <img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:1e3a8a&height=120&section=footer" />
