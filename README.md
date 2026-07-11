@@ -42,7 +42,10 @@
 
 <p align="center">
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=ShreyasThakur11&label=Profile%20views&color=2563eb&style=flat-square" />
-  &nbsp;&nbsp; <sub>Mumbai, Maharashtra, India</sub>
+</p>
+
+<p align="center">
+  Mumbai, Maharashtra, India
 </p>
 
 <img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:1e3a8a&height=120&section=footer" />
