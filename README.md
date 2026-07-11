@@ -45,7 +45,7 @@
 </p>
 
 <p align="center">
-  Mumbai, Maharashtra, India
+  <b>Mumbai, Maharashtra, India</b>
 </p>
 
 <img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:1e3a8a&height=120&section=footer" />
