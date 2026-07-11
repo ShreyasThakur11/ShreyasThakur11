@@ -4,9 +4,9 @@
 
 <h2 align="center">Blending engineering rigor with business strategy</h2>
 
-<h3 align="center">
+<p align="center">
   Focused on operations, process optimization, financial modeling, and analytics.
-</h3>
+</p>
 
 <br>
 
@@ -25,17 +25,17 @@
 
 <h3 align="center">Focus</h3>
 
-<h3 align="center">
+<p align="center">
   Process Optimization &nbsp;&nbsp;&middot;&nbsp;&nbsp; Financial Modeling &nbsp;&nbsp;&middot;&nbsp;&nbsp; Supply Chain Analytics &nbsp;&nbsp;&middot;&nbsp;&nbsp; Strategic Planning
-</h3>
+</p>
 
 <br>
 
 <h3 align="center">Toolkit</h3>
 
-<h3 align="center">
+<p align="center">
   Python &nbsp;&nbsp;&middot;&nbsp;&nbsp; SQL &nbsp;&nbsp;&middot;&nbsp;&nbsp; Power BI &nbsp;&nbsp;&middot;&nbsp;&nbsp; Excel VBA &nbsp;&nbsp;&middot;&nbsp;&nbsp; AutoCAD
-</h3>
+</p>
 
 <br>
 <br>
